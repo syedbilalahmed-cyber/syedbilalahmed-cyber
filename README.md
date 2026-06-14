@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Syed%20Bilal%20Ahmed&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Engineer%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20Enthusiast%20%7C%20Network%20Security&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Syed%20Bilal%20Ahmed&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Engineer%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20Enthusiast%20%7C%20Network%20Security&descSize=22&descColor=FFFFFF&descAlignY=65" width="97%"/>
 
+<p align="center">
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=syedbilalahmed-cyber">
     <img src="https://komarev.com/ghpvc/?username=syedbilalahmed-cyber&label=Profile%20views&color=00FFFF&style=flat-square" alt="syedbilalahmed-cyber's profile views" />
