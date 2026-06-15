@@ -12,7 +12,7 @@
   <img src="https://img.freepik.com/premium-photo/cyber-security-data-protection-concept-with-digital-hacking-sign-faceless-hacker-hoodie-using-laptop-dark-wall-background_670147-14224.jpg" alt="Banner" width="60%" height="auto" />
 </div>
 
-## 📌 About Me
+## 💫 About Me
 - 👋 Hi, I'm Syed Bilal Ahmed
   
   I am a Cybersecurity Engineering student passionate about cybersecurity and modern security technologies.
